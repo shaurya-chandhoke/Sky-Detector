@@ -1,0 +1,18 @@
+                   Problem 1 Report                    
+=======================================================
++----------------------+------------+-----------------+
+|         File         | True Class | Predicted Class |
++----------------------+------------+-----------------+
+|   coast_test1.jpg    |   coast    |      coast      |
+|   coast_test2.jpg    |   coast    |      coast      |
+|   coast_test3.jpg    |   coast    |      coast      |
+|   coast_test4.jpg    |   coast    |      coast      |
+|   forest_test1.jpg   |   forest   |      forest     |
+|   forest_test2.jpg   |   forest   |      forest     |
+|   forest_test3.jpg   |   forest   |      forest     |
+|   forest_test4.jpg   |   forest   |      forest     |
+| insidecity_test1.jpg | insidecity |      forest     |
+| insidecity_test2.jpg | insidecity |      forest     |
+| insidecity_test3.jpg | insidecity |    insidecity   |
+| insidecity_test4.jpg | insidecity |    insidecity   |
++----------------------+------------+-----------------+
